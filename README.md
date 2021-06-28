@@ -1,6 +1,6 @@
 # Description
 
-- Deployed Link: 
+- Deployed Link: https://ddaghlas.github.io/Professional-Portfolio-dd/
 
 - I was tasked with building a personal portfolio oage from scratch. This included both front-end and back-end coding that I wrote myself. The portfolio itself is meant to be a beginning concept to showcase my work and coding skills that I will continue to add to throughout the duration of the course. 
 
